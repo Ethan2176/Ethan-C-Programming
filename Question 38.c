@@ -23,7 +23,7 @@ int main() {
    printf("%d" , p);
    
    
-    printf("This is the string which will be considered %s" , Ethan);
+    printf("\nThis is the string which will be considered %s" , Ethan);
     
     for (int i=0 ; i<p ; i++){
         if(Ethan[i]==Ethan[p-1-i]){
